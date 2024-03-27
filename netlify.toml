@@ -8,3 +8,24 @@ ZOLA_VERSION = "0.17.1"
 
 [context.deploy-preview]
 command = "zola build --base-url $DEPLOY_PRIME_URL"
+
+[build.environment]
+ZOLA_VERSION = "0.17.1"
+
+[context.deploy-preview]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
+[build.environment]
+ZOLA_VERSION = "0.17.1"
+
+[context.deploy-preview]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
+[build.environment]
+ZOLA_VERSION = "0.17.1"
+
+[context.deploy-preview]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
+[build.environment]
+ZOLA_VERSION = "0.17.1"
+
+[context.deploy-preview]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
